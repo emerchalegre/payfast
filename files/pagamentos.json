@@ -1,0 +1,15 @@
+{
+	"pagamento": {
+		"forma_de_pagamento": "cartao",
+    	"valor": 150.45,
+  		"moeda": "BRL",
+      	"descricao": "Boleto 05451676984"
+	},
+	"cartao": {
+		"numero": 1234123412341234,
+		"bandeira": "visa",
+		"ano_de_expiracao": 2018,
+		"mes_de_expiracao": "08",
+		"cvv": 123
+	}
+}
